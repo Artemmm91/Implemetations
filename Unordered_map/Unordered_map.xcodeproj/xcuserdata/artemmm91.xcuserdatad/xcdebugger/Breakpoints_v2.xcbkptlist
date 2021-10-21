@@ -1,0 +1,584 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "A866BE24-4FF1-4A4B-BA37-942EA222FD3B"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9BC5A5C0-9395-42EE-B1DD-4F2E6335C283"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Unordered_map/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "main()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BC69EFC6-E2A9-48F0-89B9-CFF2403F49B5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Unordered_map/aaa.h"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "500"
+            endingLineNumber = "500"
+            landmarkName = "~UnorderedMap()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BC69EFC6-E2A9-48F0-89B9-CFF2403F49B5 - 81c5cf0780db55bb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UnorderedMap&lt;int, int, std::__1::hash&lt;int&gt;, std::__1::equal_to&lt;int&gt;, std::__1::allocator&lt;std::__1::pair&lt;int const, int&gt; &gt; &gt;::~UnorderedMap()"
+                  moduleName = "Unordered_map"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/artemmm91/Desktop/All/Problems/Algorithms/Unordered_map/Unordered_map/aaa.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "500"
+                  endingLineNumber = "500"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "BC69EFC6-E2A9-48F0-89B9-CFF2403F49B5 - 4bc489a9379e3093"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UnorderedMap&lt;double, std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt;, std::__1::hash&lt;double&gt;, std::__1::equal_to&lt;double&gt;, std::__1::allocator&lt;std::__1::pair&lt;double const, std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt; &gt; &gt; &gt;::~UnorderedMap()"
+                  moduleName = "Unordered_map"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/artemmm91/Desktop/All/Problems/Algorithms/Unordered_map/Unordered_map/aaa.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "500"
+                  endingLineNumber = "500"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "BC69EFC6-E2A9-48F0-89B9-CFF2403F49B5 - 677e236e4119db0e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UnorderedMap&lt;NeitherDefaultNorCopyConstructible, NeitherDefaultNorCopyConstructible, std::__1::hash&lt;NeitherDefaultNorCopyConstructible&gt;, std::__1::equal_to&lt;NeitherDefaultNorCopyConstructible&gt;, std::__1::allocator&lt;std::__1::pair&lt;NeitherDefaultNorCopyConstructible const, NeitherDefaultNorCopyConstructible&gt; &gt; &gt;::~UnorderedMap()"
+                  moduleName = "Unordered_map"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/artemmm91/Desktop/All/Problems/Algorithms/Unordered_map/Unordered_map/aaa.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "500"
+                  endingLineNumber = "500"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "BC69EFC6-E2A9-48F0-89B9-CFF2403F49B5 - 2f8e857d7ac0daf3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UnorderedMap&lt;OneMoreStrangeStruct, int, MyHash&lt;OneMoreStrangeStruct&gt;, MyEqual&lt;OneMoreStrangeStruct&gt;, std::__1::allocator&lt;std::__1::pair&lt;OneMoreStrangeStruct const, int&gt; &gt; &gt;::~UnorderedMap()"
+                  moduleName = "Unordered_map"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/artemmm91/Desktop/All/Problems/Algorithms/Unordered_map/Unordered_map/aaa.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "500"
+                  endingLineNumber = "500"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "BC69EFC6-E2A9-48F0-89B9-CFF2403F49B5 - e2d9385406225237"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UnorderedMap&lt;std::__1::pair&lt;int, int&gt;, char, MyHash&lt;std::__1::pair&lt;int, int&gt; &gt;, MyEqual&lt;std::__1::pair&lt;int, int&gt; &gt;, std::__1::allocator&lt;std::__1::pair&lt;std::__1::pair&lt;int, int&gt; const, char&gt; &gt; &gt;::~UnorderedMap()"
+                  moduleName = "Unordered_map"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/artemmm91/Desktop/All/Problems/Algorithms/Unordered_map/Unordered_map/aaa.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "500"
+                  endingLineNumber = "500"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "BC69EFC6-E2A9-48F0-89B9-CFF2403F49B5 - 30f101ddd726626f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UnorderedMap&lt;Chaste, Chaste, std::__1::hash&lt;Chaste&gt;, std::__1::equal_to&lt;Chaste&gt;, TheChosenOne&lt;std::__1::pair&lt;Chaste const, Chaste&gt; &gt; &gt;::~UnorderedMap()"
+                  moduleName = "Unordered_map"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/artemmm91/Desktop/All/Problems/Algorithms/Unordered_map/Unordered_map/aaa.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "500"
+                  endingLineNumber = "500"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "BC69EFC6-E2A9-48F0-89B9-CFF2403F49B5 - 81c5cf0780db55bb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UnorderedMap&lt;int, int, std::__1::hash&lt;int&gt;, std::__1::equal_to&lt;int&gt;, std::__1::allocator&lt;std::__1::pair&lt;int const, int&gt; &gt; &gt;::~UnorderedMap()"
+                  moduleName = "Unordered_map"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/artemmm91/Desktop/All/Problems/Algorithms/Unordered_map/Unordered_map/aaa.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "501"
+                  endingLineNumber = "501"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "BC69EFC6-E2A9-48F0-89B9-CFF2403F49B5 - 4bc489a9379e3093"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UnorderedMap&lt;double, std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt;, std::__1::hash&lt;double&gt;, std::__1::equal_to&lt;double&gt;, std::__1::allocator&lt;std::__1::pair&lt;double const, std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt; &gt; &gt; &gt;::~UnorderedMap()"
+                  moduleName = "Unordered_map"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/artemmm91/Desktop/All/Problems/Algorithms/Unordered_map/Unordered_map/aaa.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "501"
+                  endingLineNumber = "501"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "BC69EFC6-E2A9-48F0-89B9-CFF2403F49B5 - 677e236e4119db0e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UnorderedMap&lt;NeitherDefaultNorCopyConstructible, NeitherDefaultNorCopyConstructible, std::__1::hash&lt;NeitherDefaultNorCopyConstructible&gt;, std::__1::equal_to&lt;NeitherDefaultNorCopyConstructible&gt;, std::__1::allocator&lt;std::__1::pair&lt;NeitherDefaultNorCopyConstructible const, NeitherDefaultNorCopyConstructible&gt; &gt; &gt;::~UnorderedMap()"
+                  moduleName = "Unordered_map"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/artemmm91/Desktop/All/Problems/Algorithms/Unordered_map/Unordered_map/aaa.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "501"
+                  endingLineNumber = "501"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "BC69EFC6-E2A9-48F0-89B9-CFF2403F49B5 - e2d9385406225237"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UnorderedMap&lt;std::__1::pair&lt;int, int&gt;, char, MyHash&lt;std::__1::pair&lt;int, int&gt; &gt;, MyEqual&lt;std::__1::pair&lt;int, int&gt; &gt;, std::__1::allocator&lt;std::__1::pair&lt;std::__1::pair&lt;int, int&gt; const, char&gt; &gt; &gt;::~UnorderedMap()"
+                  moduleName = "Unordered_map"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/artemmm91/Desktop/All/Problems/Algorithms/Unordered_map/Unordered_map/aaa.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "501"
+                  endingLineNumber = "501"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "BC69EFC6-E2A9-48F0-89B9-CFF2403F49B5 - 2f8e857d7ac0daf3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UnorderedMap&lt;OneMoreStrangeStruct, int, MyHash&lt;OneMoreStrangeStruct&gt;, MyEqual&lt;OneMoreStrangeStruct&gt;, std::__1::allocator&lt;std::__1::pair&lt;OneMoreStrangeStruct const, int&gt; &gt; &gt;::~UnorderedMap()"
+                  moduleName = "Unordered_map"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/artemmm91/Desktop/All/Problems/Algorithms/Unordered_map/Unordered_map/aaa.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "501"
+                  endingLineNumber = "501"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "BC69EFC6-E2A9-48F0-89B9-CFF2403F49B5 - 30f101ddd726626f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UnorderedMap&lt;Chaste, Chaste, std::__1::hash&lt;Chaste&gt;, std::__1::equal_to&lt;Chaste&gt;, TheChosenOne&lt;std::__1::pair&lt;Chaste const, Chaste&gt; &gt; &gt;::~UnorderedMap()"
+                  moduleName = "Unordered_map"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/artemmm91/Desktop/All/Problems/Algorithms/Unordered_map/Unordered_map/aaa.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "501"
+                  endingLineNumber = "501"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BE826526-55C0-4143-86F8-A879BF447ED8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Unordered_map/aaa.h"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "759"
+            endingLineNumber = "759"
+            landmarkName = "insert_node(new_node)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "BE826526-55C0-4143-86F8-A879BF447ED8 - 7e7604afeed1903f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UnorderedMap&lt;int, int, std::__1::hash&lt;int&gt;, std::__1::equal_to&lt;int&gt;, std::__1::allocator&lt;std::__1::pair&lt;int const, int&gt; &gt; &gt;::insert_node(std::__1::pair&lt;int const, int&gt;*)"
+                  moduleName = "Unordered_map"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/artemmm91/Desktop/All/Problems/Algorithms/Unordered_map/Unordered_map/aaa.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "759"
+                  endingLineNumber = "759"
+                  offsetFromSymbolStart = "268">
+               </Location>
+               <Location
+                  uuid = "BE826526-55C0-4143-86F8-A879BF447ED8 - 31747e41e6b4c51c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UnorderedMap&lt;double, std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt;, std::__1::hash&lt;double&gt;, std::__1::equal_to&lt;double&gt;, std::__1::allocator&lt;std::__1::pair&lt;double const, std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt; &gt; &gt; &gt;::insert_node(std::__1::pair&lt;double const, std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt; &gt;*)"
+                  moduleName = "Unordered_map"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/artemmm91/Desktop/All/Problems/Algorithms/Unordered_map/Unordered_map/aaa.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "759"
+                  endingLineNumber = "759"
+                  offsetFromSymbolStart = "268">
+               </Location>
+               <Location
+                  uuid = "BE826526-55C0-4143-86F8-A879BF447ED8 - 5a2b21721c6dd7aa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UnorderedMap&lt;NeitherDefaultNorCopyConstructible, NeitherDefaultNorCopyConstructible, std::__1::hash&lt;NeitherDefaultNorCopyConstructible&gt;, std::__1::equal_to&lt;NeitherDefaultNorCopyConstructible&gt;, std::__1::allocator&lt;std::__1::pair&lt;NeitherDefaultNorCopyConstructible const, NeitherDefaultNorCopyConstructible&gt; &gt; &gt;::insert_node(std::__1::pair&lt;NeitherDefaultNorCopyConstructible const, NeitherDefaultNorCopyConstructible&gt;*)"
+                  moduleName = "Unordered_map"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/artemmm91/Desktop/All/Problems/Algorithms/Unordered_map/Unordered_map/aaa.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "759"
+                  endingLineNumber = "759"
+                  offsetFromSymbolStart = "268">
+               </Location>
+               <Location
+                  uuid = "BE826526-55C0-4143-86F8-A879BF447ED8 - d5f28bda4ae1bada"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UnorderedMap&lt;std::__1::pair&lt;int, int&gt;, char, MyHash&lt;std::__1::pair&lt;int, int&gt; &gt;, MyEqual&lt;std::__1::pair&lt;int, int&gt; &gt;, std::__1::allocator&lt;std::__1::pair&lt;std::__1::pair&lt;int, int&gt; const, char&gt; &gt; &gt;::insert_node(std::__1::pair&lt;std::__1::pair&lt;int, int&gt; const, char&gt;*)"
+                  moduleName = "Unordered_map"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/artemmm91/Desktop/All/Problems/Algorithms/Unordered_map/Unordered_map/aaa.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "759"
+                  endingLineNumber = "759"
+                  offsetFromSymbolStart = "268">
+               </Location>
+               <Location
+                  uuid = "BE826526-55C0-4143-86F8-A879BF447ED8 - 2610d8f193664930"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UnorderedMap&lt;OneMoreStrangeStruct, int, MyHash&lt;OneMoreStrangeStruct&gt;, MyEqual&lt;OneMoreStrangeStruct&gt;, std::__1::allocator&lt;std::__1::pair&lt;OneMoreStrangeStruct const, int&gt; &gt; &gt;::insert_node(std::__1::pair&lt;OneMoreStrangeStruct const, int&gt;*)"
+                  moduleName = "Unordered_map"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/artemmm91/Desktop/All/Problems/Algorithms/Unordered_map/Unordered_map/aaa.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "759"
+                  endingLineNumber = "759"
+                  offsetFromSymbolStart = "268">
+               </Location>
+               <Location
+                  uuid = "BE826526-55C0-4143-86F8-A879BF447ED8 - 9a75a829cb88c98e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UnorderedMap&lt;Chaste, Chaste, std::__1::hash&lt;Chaste&gt;, std::__1::equal_to&lt;Chaste&gt;, TheChosenOne&lt;std::__1::pair&lt;Chaste const, Chaste&gt; &gt; &gt;::insert_node(std::__1::pair&lt;Chaste const, Chaste&gt;*)"
+                  moduleName = "Unordered_map"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/artemmm91/Desktop/All/Problems/Algorithms/Unordered_map/Unordered_map/aaa.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "759"
+                  endingLineNumber = "759"
+                  offsetFromSymbolStart = "268">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "30858927-B6C3-41C1-B542-A380D463D6CE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Unordered_map/aaa.h"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "646"
+            endingLineNumber = "646"
+            landmarkName = "operator=(other)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "30858927-B6C3-41C1-B542-A380D463D6CE - ec57d06b479b4569"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UnorderedMap&lt;int, int, std::__1::hash&lt;int&gt;, std::__1::equal_to&lt;int&gt;, std::__1::allocator&lt;std::__1::pair&lt;int const, int&gt; &gt; &gt;::operator=(UnorderedMap&lt;int, int, std::__1::hash&lt;int&gt;, std::__1::equal_to&lt;int&gt;, std::__1::allocator&lt;std::__1::pair&lt;int const, int&gt; &gt; &gt;&amp;&amp;)"
+                  moduleName = "Unordered_map"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/artemmm91/Desktop/All/Problems/Algorithms/Unordered_map/Unordered_map/aaa.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "647"
+                  endingLineNumber = "647"
+                  offsetFromSymbolStart = "87">
+               </Location>
+               <Location
+                  uuid = "30858927-B6C3-41C1-B542-A380D463D6CE - fe35b11418f39c18"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UnorderedMap&lt;NeitherDefaultNorCopyConstructible, NeitherDefaultNorCopyConstructible, std::__1::hash&lt;NeitherDefaultNorCopyConstructible&gt;, std::__1::equal_to&lt;NeitherDefaultNorCopyConstructible&gt;, std::__1::allocator&lt;std::__1::pair&lt;NeitherDefaultNorCopyConstructible const, NeitherDefaultNorCopyConstructible&gt; &gt; &gt;::operator=(UnorderedMap&lt;NeitherDefaultNorCopyConstructible, NeitherDefaultNorCopyConstructible, std::__1::hash&lt;NeitherDefaultNorCopyConstructible&gt;, std::__1::equal_to&lt;NeitherDefaultNorCopyConstructible&gt;, std::__1::allocator&lt;std::__1::pair&lt;NeitherDefaultNorCopyConstructible const, NeitherDefaultNorCopyConstructible&gt; &gt; &gt;&amp;&amp;)"
+                  moduleName = "Unordered_map"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/artemmm91/Desktop/All/Problems/Algorithms/Unordered_map/Unordered_map/aaa.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "647"
+                  endingLineNumber = "647"
+                  offsetFromSymbolStart = "87">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8D2E3142-3133-4CFF-8DDA-E98ECD923C6C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Unordered_map/new_sol.h"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "466"
+            endingLineNumber = "466"
+            landmarkName = "operator=(other)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CED368AD-AC45-442F-BCC0-E9001C29FACF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Unordered_map/new_sol.h"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "415"
+            endingLineNumber = "415"
+            landmarkName = "UnorderedMap(other)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CED368AD-AC45-442F-BCC0-E9001C29FACF - 27a3683703561ba9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UnorderedMap&lt;int, int, std::__1::hash&lt;int&gt;, std::__1::equal_to&lt;int&gt;, std::__1::allocator&lt;std::__1::pair&lt;int const, int&gt; &gt; &gt;::UnorderedMap(UnorderedMap&lt;int, int, std::__1::hash&lt;int&gt;, std::__1::equal_to&lt;int&gt;, std::__1::allocator&lt;std::__1::pair&lt;int const, int&gt; &gt; &gt; const&amp;)"
+                  moduleName = "Unordered_map"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/artemmm91/Desktop/All/Problems/Algorithms/Unordered_map/Unordered_map/new_sol.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "415"
+                  endingLineNumber = "415"
+                  offsetFromSymbolStart = "199">
+               </Location>
+               <Location
+                  uuid = "CED368AD-AC45-442F-BCC0-E9001C29FACF - 27a3683703561ba9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UnorderedMap&lt;int, int, std::__1::hash&lt;int&gt;, std::__1::equal_to&lt;int&gt;, std::__1::allocator&lt;std::__1::pair&lt;int const, int&gt; &gt; &gt;::UnorderedMap(UnorderedMap&lt;int, int, std::__1::hash&lt;int&gt;, std::__1::equal_to&lt;int&gt;, std::__1::allocator&lt;std::__1::pair&lt;int const, int&gt; &gt; &gt; const&amp;)"
+                  moduleName = "Unordered_map"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/artemmm91/Desktop/All/Problems/Algorithms/Unordered_map/Unordered_map/new_sol.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "415"
+                  endingLineNumber = "415"
+                  offsetFromSymbolStart = "318">
+               </Location>
+               <Location
+                  uuid = "CED368AD-AC45-442F-BCC0-E9001C29FACF - dd9ae185105901fb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UnorderedMap&lt;Chaste, Chaste, std::__1::hash&lt;Chaste&gt;, std::__1::equal_to&lt;Chaste&gt;, TheChosenOne&lt;std::__1::pair&lt;Chaste const, Chaste&gt; &gt; &gt;::UnorderedMap(UnorderedMap&lt;Chaste, Chaste, std::__1::hash&lt;Chaste&gt;, std::__1::equal_to&lt;Chaste&gt;, TheChosenOne&lt;std::__1::pair&lt;Chaste const, Chaste&gt; &gt; &gt; const&amp;)"
+                  moduleName = "Unordered_map"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/artemmm91/Desktop/All/Problems/Algorithms/Unordered_map/Unordered_map/new_sol.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "415"
+                  endingLineNumber = "415"
+                  offsetFromSymbolStart = "199">
+               </Location>
+               <Location
+                  uuid = "CED368AD-AC45-442F-BCC0-E9001C29FACF - dd9ae185105901fb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UnorderedMap&lt;Chaste, Chaste, std::__1::hash&lt;Chaste&gt;, std::__1::equal_to&lt;Chaste&gt;, TheChosenOne&lt;std::__1::pair&lt;Chaste const, Chaste&gt; &gt; &gt;::UnorderedMap(UnorderedMap&lt;Chaste, Chaste, std::__1::hash&lt;Chaste&gt;, std::__1::equal_to&lt;Chaste&gt;, TheChosenOne&lt;std::__1::pair&lt;Chaste const, Chaste&gt; &gt; &gt; const&amp;)"
+                  moduleName = "Unordered_map"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/artemmm91/Desktop/All/Problems/Algorithms/Unordered_map/Unordered_map/new_sol.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "415"
+                  endingLineNumber = "415"
+                  offsetFromSymbolStart = "318">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "91CD4349-8BE1-4F2C-905D-C81B56E068F1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Unordered_map/new_sol.h"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "416"
+            endingLineNumber = "416"
+            landmarkName = "UnorderedMap(other)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DA6FAD69-323E-472B-AD10-35A4F4651B39"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Unordered_map/unordered_map_test.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "117"
+            endingLineNumber = "117"
+            landmarkName = "TestIterators()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "89F0C0CF-76D8-45D1-8654-E199E44D6704"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Unordered_map/unordered_map_test.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "85"
+            endingLineNumber = "85"
+            landmarkName = "TestIterators()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9C8E57FF-8C63-42DF-8C64-CA9308C8AF31"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Unordered_map/unordered_map_test.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "SimpleTest()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "364E472E-96FC-4916-8F42-E50000040626"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Unordered_map/unordered_map_test.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "71"
+            endingLineNumber = "71"
+            landmarkName = "TestIterators()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9854E774-9B66-41FA-983C-FB8087B500BF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Unordered_map/unordered_map_test.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "SimpleTest()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E8FFAF78-BC9D-474C-94B5-FD62F7E9583C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Unordered_map/unordered_map_test.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "SimpleTest()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
